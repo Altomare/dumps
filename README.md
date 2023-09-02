@@ -1,7 +1,7 @@
 # dumps
 Collection of misc. ROM dumps
 
-## HJ0820BC01 phone system
+## Unknown phone system 1
 
 ![](/pics/HJ0820BC01_top.jpg)
 
@@ -22,3 +22,23 @@ Purpose: phone/telecom system of some kind
 Date: 1992
 
 Dump: HJ020DB01/HX0267AG1_V1E16_A638.BIN
+
+## Unknown phone system 2
+
+![](/pics/HJ2217_top.jpg)
+
+Manufacturer: ?
+
+Notable chips:
+* 68HC11 CPU
+* Philips GAMOB-2C
+
+Identifiers:
+* PCB marking: CN2204AA2-CC02
+* PCB label: HJ2217 AA2 DE 01.89-27
+* EPROM label: HX0267AG1 V1E16 A638
+
+Purpose: phone/telecom system of some kind
+Date: 1989
+
+Dump: HJ2217/V2E3.BIN
